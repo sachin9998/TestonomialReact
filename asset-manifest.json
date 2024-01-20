@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TestonomialReact/static/css/main.83d9c1fa.css",
+    "main.js": "/TestonomialReact/static/js/main.2d377fb9.js",
+    "index.html": "/TestonomialReact/index.html",
+    "main.83d9c1fa.css.map": "/TestonomialReact/static/css/main.83d9c1fa.css.map",
+    "main.2d377fb9.js.map": "/TestonomialReact/static/js/main.2d377fb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83d9c1fa.css",
+    "static/js/main.2d377fb9.js"
+  ]
+}
